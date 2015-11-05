@@ -1,0 +1,3 @@
+#!/bin/bash
+# audio notification indicating an error of some kind
+mplayer -nolirc -really-quiet /usr/share/sounds/KDE-Im-Internal-Error.ogg </dev/null

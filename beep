@@ -1,3 +1,3 @@
 #!/bin/bash
 # general-purpose audio notification
-mplayer -nolirc -really-quiet /usr/share/sounds/KDE-Sys-App-Positive.ogg </dev/null
+paplay /usr/share/sounds/KDE-Sys-App-Positive.ogg </dev/null

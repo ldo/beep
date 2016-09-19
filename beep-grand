@@ -1,0 +1,3 @@
+#!/bin/bash
+# somewhat grander audio notification
+paplay /usr/share/sounds/Kopete_User_is_Online.ogg

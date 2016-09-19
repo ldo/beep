@@ -1,10 +1,10 @@
-Here are a couple of very simple scripts that can be used to make
-audible noises in command sequences. This can be useful where the
-commands can take a long time to execute, so you leave them running in
-one terminal window while you do something else in another window: the
-beep will notify you when the sequence has finished. I provide two
-versions, with different sounds, that you can use as indications of
-success or failure. For example:
+Here are a few very simple scripts that can be used to make audible
+noises in command sequences. This can be useful where the commands can
+take a long time to execute, so you leave them running in one terminal
+window while you do something else in another window: the beep will
+notify you when the sequence has finished. I provide two versions,
+with different sounds, that you can use as indications of success or
+failure. For example:
 
     <long-winded command sequence> ...; beep
 

@@ -15,8 +15,7 @@ for a simple beep-at-end-of-sequence, or
 which will invoke “beep” if the <command> exits with a zero (success)
 status, or “beep-error” if its exit status is nonzero.
 
-The actual sounds come from KDE, and I play them using MPlayer in
-command-line mode.
+The actual sounds come from KDE, and I play them using paplay.
 
 Lawrence D'Oliveiro <ldo@geek-central.gen.nz>
-2015 November 6
+2016 September 20

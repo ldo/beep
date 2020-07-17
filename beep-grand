@@ -1,3 +1,3 @@
 #!/bin/bash
 # somewhat grander audio notification
-paplay /usr/share/sounds/Kopete_User_is_Online.ogg
+ffplay -nodisp -autoexit -v -8 /usr/share/sounds/Kopete_User_is_Online.ogg
